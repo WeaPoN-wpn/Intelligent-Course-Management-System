@@ -66,7 +66,7 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
 ## How to Run the Project
 
 1. Create database  
-`create database gp;`  
+`create database gp`  
 2. Import table schema  
 `source create.sql`  
 3. Import data  
