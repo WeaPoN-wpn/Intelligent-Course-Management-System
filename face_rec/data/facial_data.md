@@ -1,1 +1,1 @@
-Facial capture data will be stored here
+Facial capture data will be stored in this folder
