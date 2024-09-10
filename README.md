@@ -30,6 +30,9 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
      - **Schedule Table**: Stores the student's course schedule.
      - **Behavior Log Table**: Records student behavior within the system.
      - **Email Sending Table**: Logs information related to email communications.
+   - ER Diagram:
+   - 
+![ERD](./ERD.jpg)
 
 ### 3. **Login Interface**
    - The login interface is built using `mysql.connector` to interact with the MySQL database and `PySimpleGUI` to create the GUI.
