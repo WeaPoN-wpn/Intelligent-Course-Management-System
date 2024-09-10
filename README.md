@@ -50,6 +50,8 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
 - On the left side, all the courses the student has taken are presented as clickable buttons that redirect to the corresponding course pages.
 - On the right side, the weekly class schedule is displayed.
 
+![Home Page](./Home_Page.jpg)
+
 ### Course Page
 - After clicking on a course name, the user is taken to the Course Page. The course name and classroom address are displayed at the top.
 - The page contains five main buttons:
@@ -59,9 +61,13 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
   - **Tutorial_note**: Redirects to the course's tutorial notes.
   - **Send_email**: Opens the user’s email client and allows them to send course information to themselves.
 
+![Course Page](./Course_Page.jpg)
+
 ### Warning Popup
 - If a course is scheduled within the next hour, a warning popup will appear after login.
 - Clicking **Click_me** in the popup redirects the user to the Course Page for that specific course.
+
+![Warning Popup](./Warning_Popup.jpg)
 
 ## How to Run the Project
 
