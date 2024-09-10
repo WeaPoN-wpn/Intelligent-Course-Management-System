@@ -1,4 +1,4 @@
-to use this gui
+## To Use This GUI
 
 1. create the database 
 ```sql
