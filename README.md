@@ -65,7 +65,12 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
 
 ## How to Run the Project
 
-1. Clone the repository and navigate to the project directory.
-2. Install the required Python libraries:  
-   ```bash
-   pip install mysql-connector-python PySimpleGUI opencv-python
+1. Create database  
+`create database gp;`  
+2. Import table schema  
+`source create.sql`  
+3. Import data  
+`source data.sql`  
+4. Replace SQL user name and password in main.py   
+5. Run main.py  
+`python main.py`
