@@ -40,11 +40,10 @@ The Intelligent Course Management System (ICMS) is a Python and MySQL-based appl
 
 ## System Workflow
 
-1. **Face Recognition and Login**:
-   - The system opens the camera and starts face recognition.
-   - If a student's face is recognized, their data is retrieved from the database.
-   - If a class is scheduled within one hour, the system presents course details, classroom address, teacher’s message, and links to Zoom and other course materials in the GUI.
-   - If no class is scheduled within an hour, the system shows the student’s personal class timetable.
+- The system opens the camera and starts face recognition.
+- If a student's face is recognized, their data is retrieved from the database.
+- If a class is scheduled within one hour, the system presents course details, classroom address, teacher’s message, and links to Zoom and other course materials in the GUI.
+- If no class is scheduled within an hour, the system shows the student’s personal class timetable.
 
 ## GUI Description
 
